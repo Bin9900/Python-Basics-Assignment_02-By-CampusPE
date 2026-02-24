@@ -1,5 +1,6 @@
 # Python-Basics-Assignment_02-By-CampusPE
 Python Basics Assignment – Complete beginner-friendly solutions (20 programs) with proper comments and error handling.
+
 Name: Bindu B  
 Assignment: Python Basics Assignment (Modules 1–6)  
 Total Questions Attempted: 20/20  
